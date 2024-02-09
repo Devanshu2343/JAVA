@@ -1,6 +1,6 @@
 //a program to display example of continue
 
-public class continuee {
+public class Continue {
     public static void main (String args []){
          
          for (int i =0 ; i<= 10 ; i++){
