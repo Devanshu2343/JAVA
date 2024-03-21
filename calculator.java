@@ -25,10 +25,7 @@ public class calculator {
                 break;    
             case '%' :   System.out.println("Reminder  is " + (a%b));  
                 break;        
-            
-        
-            default:  System.out.println("Invalid Operator"); 
-                 
+            default:  System.out.println("Invalid Operator");  
                 break;
         }
     }
