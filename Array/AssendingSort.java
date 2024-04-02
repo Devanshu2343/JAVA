@@ -22,7 +22,7 @@ public class AssendingSort {
         Arrays.sort(elements);
 
 
-        // oputut of sorted array
+        // output of sorted array in asscending order
         System.out.println("Elements of array :");
         for (int i = 0; i < n; i++) {
             System.out.println("Element " + (i + 1) + ": " + elements[i]);
