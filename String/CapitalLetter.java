@@ -22,8 +22,6 @@ public class CapitalLetter {
                                .append(" ");
             }
         }
-
-        // Display the modified string
         System.out.println("Modified string: " + modifiedString.toString().trim());
 
         scanner.close();
