@@ -6,7 +6,7 @@ public class auto_type_casting {
         System.out.println ("Enter the number");
         Scanner sc = new Scanner(System.in);
         int myInt = sc.nextInt();
-        double myDouble = myInt; // Automatic casting: int to double
+        double myDouble = myInt; // Automatic casting -> int to double
     
         System.out.println(myInt);      // Outputs = myInt
         System.out.println(myDouble);   // Outputs in float 
